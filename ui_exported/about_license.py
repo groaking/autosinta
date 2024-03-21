@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git/codename-autosinta/src/autosinta/ui/about_license.ui'
+# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git-pub/autosinta/ui/about_license.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.10
 #

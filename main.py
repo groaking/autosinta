@@ -351,9 +351,23 @@ class WindowMain(QtWidgets.QMainWindow, main_gui.Ui_MainWindow):
         
         # Determining the responses
         if r == True:
+            # Enable the sync menus upon successful login
+            self.frame_sync.setEnabled(True)
+            self.btn_exportauthor.setEnabled(True)
+            self.btn_sync.setEnabled(True)
+            self.frame_log.setEnabled(True)
+            
+            # Show notification
             self.o(f'Login successful!')
             DialogLoginMatch().show()
         else:
+            # Disable the sync menus when credentials are wrong
+            self.frame_sync.setEnabled(False)
+            self.btn_exportauthor.setEnabled(False)
+            self.btn_sync.setEnabled(False)
+            self.frame_log.setEnabled(False)
+            
+            # Show notification
             self.o(f'Login failed!')
             DialogLoginUnmatch().show()
     

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git/codename-autosinta/src/autosinta/ui/exportauthor_failed.ui'
+# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git-pub/autosinta/ui/exportauthor_failed.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.10
 #

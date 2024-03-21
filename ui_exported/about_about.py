@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git/codename-autosinta/src/autosinta/ui/about_about.ui'
+# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git-pub/autosinta/ui/about_about.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.10
 #
@@ -48,4 +48,7 @@ class Ui_Dialog(object):
 "</style></head><body style=\" font-family:\'Sans Serif\'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:11pt; font-weight:600;\">AutoSINTA</span> is an unofficial program that synchronizes author publication data in <a href=\"https://sinta.kemdikbud.go.id/authorverification\"><span style=\" text-decoration: underline; color:#0000ff;\">SINTA</span></a>. Using automation and looping, this program accesses the API of SINTA such that the synchronization of author publication data in SINTA can be performed in bulk without human labor.</p>\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Created in 2024 by <span style=\" font-weight:600;\">Samarthya Lykamanuella</span> in association with Directorate of Research and Community Service of Satya Wacana Christian University Salatiga, Indonesia.</p></body></html>"))
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Created in 2024 by <span style=\" font-weight:600;\">Samarthya Lykamanuella</span> in association with Directorate of Research and Community Service of Satya Wacana Christian University Salatiga, Indonesia.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Copyright © Samarthya Lykamanuella</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">and Kristoko Dwi Hartomo</p></body></html>"))

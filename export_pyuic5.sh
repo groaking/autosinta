@@ -2,8 +2,9 @@
 # This script automatically converts each UI file (created using QtDesigner)
 # under the folder ./ui into python files
 
-base="/ssynthesia/ghostcity/git/codename-autosinta/src/autosinta/ui"
-base_exported="/ssynthesia/ghostcity/git/codename-autosinta/src/autosinta/ui_exported"
+# Change according to your local computer's directory setup
+base="/ssynthesia/ghostcity/git-pub/autosinta/ui"
+base_exported="/ssynthesia/ghostcity/git-pub/autosinta/ui_exported"
 
 # Export the UI files
 ls $base | while read -r l; do

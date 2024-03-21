@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git/codename-autosinta/src/autosinta/ui/sync_selection.ui'
+# Form implementation generated from reading ui file '/ssynthesia/ghostcity/git-pub/autosinta/ui/sync_selection.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.10
 #
