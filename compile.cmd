@@ -3,4 +3,4 @@ pyinstaller main.py ^
 --log-level INFO ^
 --onefile ^
 --windowed ^
---name autosinta-v1.0.0-pyinstaller-windows
+--name autosinta-v1.0.1-pyinstaller-windows
